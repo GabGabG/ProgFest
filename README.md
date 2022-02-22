@@ -1,2 +1,2 @@
 # ProgFest
- Code des présentations et ateliers organisés par Gabriel Genest
+ Ressources des présentations et ateliers organisés par Gabriel Genest
