@@ -76,8 +76,8 @@ for lien in liens:
 
 liens_df = pd.DataFrame(liens_clean, columns=["Auteur1", "Auteur2", "Titre", "Citations"])
 print(liens_df)
-liens_df.to_csv("liens.csv")
+liens_df.to_csv("liens.csv", index=False)
 
 profs_df = pd.DataFrame(profs, columns=["Prof"])
 print(profs_df)
-profs_df.to_csv("profs.csv")
+profs_df.to_csv("profs.csv", index=False)
