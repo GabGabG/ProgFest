@@ -7,6 +7,7 @@ import os
 # les papiers dont les auteurs étaient peut-être étudiants ou les papiers dont les auteurs sont professeurs.    #
 # Le tri entre les publications qui n'ont pas rapport se fait naturellement (il n'y a pas 2 P. Desrosiers qui   #
 # ont fait une publication avec D. Côté!)                                                                       #
+# Attention: un tri manuel a été fait dans "liens.csv" par après, ne pas toucher au fichier                     #
 #################################################################################################################
 
 profs = ["Allard, A", "Allen, C", "Archambault, L", "Beaulieu, L", "Bernier, M", "Cote, D", "Desjardins, M",
